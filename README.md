@@ -1,5 +1,8 @@
 Complete profile: <a src='https://prettibernardo.github.io'> https://prettibernardo.github.io </a><hr>
-Working with different types of engineering since 2018. Started in <b style="color:#d6c98d">mechanical</b>, went through <b style="color:#aed191">software</b> and stabilized in <b style="color:#90d4aa">data engineering</b> over the last years.
+Working with different types of engineering since 2018. Started in <b style="color:#d6c98d">mechanical</b>, went through <b style="color:#aed191">software</b> and stabilized in <b style="color:#90d4aa">data engineering</b> over the last years. <br>
+<small class="mt-5">>> Check my <a href="https://medium.com/@prettibernardo"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Medium" height="16"></a> for Data Projects.</small>
+
+
 <hr>
 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="24"> <img src="https://www.svgviewer.dev/static-svgs/476508/sql.svg" alt="SQL" height="24"> - Python/SQL Expert <br>
@@ -8,7 +11,7 @@ Working with different types of engineering since 2018. Started in <b style="col
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" height="24"><img src="https://svgmix.com/uploads/3111e8-aws-s3.svg" alt="AWS S3" height="24"> - AWS Pro. <br>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" alt="dbt" height="24"> <img src="https://upload.vectorlogo.zone/logos/airbyteio/images/0b7835a0-eb34-4378-805b-1ea958cecccf.svg" alt="Airbyte" height="24"> - Open Source Enthusiast <br>
 
-<small class="mt-5">>> Check my <a href="https://medium.com/@prettibernardo"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" style="background-color: #fcfbf1; border-radius: 5px; margin: 4px" alt="Medium" height="24"></a> for Data Projects.</small>
+
 <hr>
 
 <strong>Cloud</strong><br>
