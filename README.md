@@ -1,3 +1,4 @@
+Complete profile: <a src='https://prettibernardo.github.io'> https://prettibernardo.github.io </a><hr>
 Working with different types of engineering since 2018. Started in <b style="color:#d6c98d">mechanical</b>, went through <b style="color:#aed191">software</b> and stabilized in <b style="color:#90d4aa">data engineering</b> over the last years.
 <hr>
 
@@ -8,7 +9,19 @@ Working with different types of engineering since 2018. Started in <b style="col
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" alt="dbt" height="24"> <img src="https://upload.vectorlogo.zone/logos/airbyteio/images/0b7835a0-eb34-4378-805b-1ea958cecccf.svg" alt="Airbyte" height="24"> - Open Source Enthusiast <br>
 
 <small class="mt-5">>> Check my <a href="https://medium.com/@prettibernardo"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" style="background-color: #fcfbf1; border-radius: 5px; margin: 4px" alt="Medium" height="24"></a> for Data Projects.</small>
+<hr>
 
-<strong></strong>
+<strong>Cloud</strong><br>
+
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker)](https://skillicons.dev)
+</p>
+
+<strong>Data</strong><br>
+[![My Skills](https://skillicons.dev/icons?i=py,kafka,mongodb,sqlite,mysql,postgres )](https://skillicons.dev)
+
+<strong>DevOps</strong><br>
+[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,bash,github,terraform)](https://skillicons.dev)
+
+<strong>Software</strong><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,flask,nodejs,bootstrap,vite)](https://skillicons.dev)
+
